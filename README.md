@@ -37,34 +37,44 @@ Author: [David Kwaku Boateng] Student ID: [11135953]</h3>
 <h3>Below are screenshots of each page of the website:</h3>
 
 <u><h2>Home Page</u></h2>
-<img src="C:![Alt text](<Screenshot Homepage1-1.png>)" height="800" width="800px">
+![ScreenshotHomepage](https://github.com/davidboateng451/11135953_DCIT205/assets/151746606/9bdb252b-bbe8-425e-aa31-da9427bbb614)
+
 
 <u><h2>Event page</u></h2>
-<img src="![Alt text](<Screenshot Events-1.png>)" height="800" width="800px">
+![ScreenshotEvent](https://github.com/davidboateng451/11135953_DCIT205/assets/151746606/e8f8bae9-2cc5-4d3b-9810-6df4ca2a9660)
+
 
 <u><h2>Undergraduate Course page</u></h2>
-<img src="![Alt text](<Screenshot Undergraduate Course-1.png>)" height="800" width="800px">
+![ScreenshotUndergraduatecourse](https://github.com/davidboateng451/11135953_DCIT205/assets/151746606/a907544d-9680-4cd0-93ae-89ea962a2bd7)
+
 
 <u><h2>Contact page</u></h2>
-<img src="![Alt text](<Screenshot Contact.png>)" height="800" width="800px">
+![ScreenshotContact](https://github.com/davidboateng451/11135953_DCIT205/assets/151746606/f863e1b3-d01e-4fdb-abbd-b61dc3ddee57)
+
 
 <u><h2>Admission page</u></h2>
-<img src="![Alt text](<Screenshot Admission.png>)" height="800" width="800px">
+![ScreenshotAdmission](https://github.com/davidboateng451/11135953_DCIT205/assets/151746606/72770615-1161-482f-ada9-f5e4d584a732)
+
+
 
 <u><h2>About page</u></h2>
-<img src="![Alt text](<Screenshot About .png>)" height="800" width="800px">
+![ScreenshotAbout](https://github.com/davidboateng451/11135953_DCIT205/assets/151746606/43dfc368-451c-483a-84b5-f122abe32d27)
+
 
 <u><h2>Graduate Course  (MPhil)</u></h2>
-<img src="C:\Users\BOATENG\Desktop\11135953_DCIT205-1\Screenshot GraduateCourse.png" height="800" width="800px">
+![Screenshot GraduateCourse-1](https://github.com/davidboateng451/11135953_DCIT205/assets/151746606/e4399550-e80a-4303-b4ee-8206ec472d7b)
+
 
 <u><h2>Graduate Course (PHD)</u></h2>
-<img src="![Alt text](<Screenshot Graduate Course(PHD).png>)" height="800" width="800px">
+![Screenshot GraduateCoursePHD](https://github.com/davidboateng451/11135953_DCIT205/assets/151746606/f15d0197-c0dc-425d-ae5d-e0b5c2f2bb48)
 
 <u><h2>Graduate Course (Msc)</u></h2>
-<img src="![Alt text](<Screenshot Undergraduate Course.png>)" height="800" width="800px">
+![ScreenshotGraduateCourseMsc](https://github.com/davidboateng451/11135953_DCIT205/assets/151746606/ecc9aeea-d86d-498e-ba9e-4d051edf4858)
+
 
 <u><h2>Research</u></h2>
-<img src="![Alt text](<Screenshot Research-1.png>)" height="800" width="800px">
+![ScreenshotResearch](https://github.com/davidboateng451/11135953_DCIT205/assets/151746606/632dc2ef-9aa6-49ff-aef6-37cf750b2d54)
+
 
 <u><h1>Lessons Learned</u></h1>
 <h3>Throughout the development of this project, I have gained valuable experience in:</h3>
