@@ -37,34 +37,34 @@ Author: [David Kwaku Boateng] Student ID: [11135953]</h3>
 <h3>Below are screenshots of each page of the website:</h3>
 
 <u><h2>Home Page</u></h2>
-<img src="C:\Users\BOATENG\Desktop\11135953_DCIT205-1\Screenshots\Screenshot Homepage1.png" height="800" width="800px">
+<img src="C:![Alt text](<Screenshot Homepage1-1.png>)" height="800" width="800px">
 
 <u><h2>Event page</u></h2>
-<img src="C:\Users\BOATENG\Desktop\11135953_DCIT205-1\Screenshots\Screenshot Events.png" height="800" width="800px">
+<img src="![Alt text](<Screenshot Events-1.png>)" height="800" width="800px">
 
 <u><h2>Undergraduate Course page</u></h2>
-<img src="C:\Users\BOATENG\Desktop\11135953_DCIT205-1\Screenshots\Screenshot Undergraduate Course.png" height="800" width="800px">
+<img src="![Alt text](<Screenshot Undergraduate Course-1.png>)" height="800" width="800px">
 
 <u><h2>Contact page</u></h2>
-<img src="C:\Users\BOATENG\Desktop\11135953_DCIT205-1\Screenshots\Screenshot Contact.png" height="800" width="800px">
+<img src="![Alt text](<Screenshot Contact.png>)" height="800" width="800px">
 
 <u><h2>Admission page</u></h2>
-<img src="C:\Users\BOATENG\Desktop\11135953_DCIT205-1\Screenshots\Screenshot Admission.png" height="800" width="800px">
+<img src="![Alt text](<Screenshot Admission.png>)" height="800" width="800px">
 
 <u><h2>About page</u></h2>
-<img src="C:\Users\BOATENG\Desktop\11135953_DCIT205-1\Screenshots\Screenshot About .png" height="800" width="800px">
+<img src="![Alt text](<Screenshot About .png>)" height="800" width="800px">
 
 <u><h2>Graduate Course  (MPhil)</u></h2>
-<img src="C:\Users\BOATENG\Desktop\11135953_DCIT205-1\Screenshots\Screenshot Graduate Course(MPhil).png" height="800" width="800px">
+<img src="![Alt text](<Screenshot Graduate Course(MPhil).png>)" height="800" width="800px">
 
 <u><h2>Graduate Course (PHD)</u></h2>
-<img src="C:\Users\BOATENG\Desktop\11135953_DCIT205-1\Screenshots\Screenshot Graduate Course(PHD).png" height="800" width="800px">
+<img src="![Alt text](<Screenshot Graduate Course(PHD).png>)" height="800" width="800px">
 
 <u><h2>Graduate Course (Msc)</u></h2>
-<img src="C:\Users\BOATENG\Desktop\11135953_DCIT205-1\Screenshots\Screenshot Graduate Course(Msc).png" height="800" width="800px">
+<img src="![Alt text](<Screenshot Undergraduate Course.png>)" height="800" width="800px">
 
 <u><h2>Research</u></h2>
-<img src="C:\Users\BOATENG\Desktop\11135953_DCIT205-1\Screenshots\Screenshot Research.png" height="800" width="800px">
+<img src="![Alt text](<Screenshot Research-1.png>)" height="800" width="800px">
 
 <u><h1>Lessons Learned</u></h1>
 <h3>Throughout the development of this project, I have gained valuable experience in:</h3>
