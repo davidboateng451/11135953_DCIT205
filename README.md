@@ -55,7 +55,7 @@ Author: [David Kwaku Boateng] Student ID: [11135953]</h3>
 <img src="![Alt text](<Screenshot About .png>)" height="800" width="800px">
 
 <u><h2>Graduate Course  (MPhil)</u></h2>
-<img src="![Alt text](<Screenshot Graduate Course(MPhil).png>)" height="800" width="800px">
+<img src="C:\Users\BOATENG\Desktop\11135953_DCIT205-1\Screenshot GraduateCourse.png" height="800" width="800px">
 
 <u><h2>Graduate Course (PHD)</u></h2>
 <img src="![Alt text](<Screenshot Graduate Course(PHD).png>)" height="800" width="800px">
